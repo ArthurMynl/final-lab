@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python3 -m uvicorn main:app --reload
 ```
 
-Then you access the application on [http://localhost:8000] and the documentation on [http://localhost:8000/docs].
+Then you access the application on [http://localhost:8000](http://localhost:8000) and the documentation on [http://localhost:8000/docs](http://localhost:8000/docs).
 
 ## How to test
 
